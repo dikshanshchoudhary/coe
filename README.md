@@ -13,4 +13,4 @@ A Python program that:
 
 ## Run
 ```bash
-python meeting_scheduler_input.py
+python coe1.py
